@@ -14,7 +14,7 @@ A scalable, microservices-based real-time chat application built with Spring Boo
 
 ## 🏗️ Architecture
 
-
+![Hustle-Architecture](./Hustle-Architecture.png)
 
 ## 🛠️ Technology Stack
 
