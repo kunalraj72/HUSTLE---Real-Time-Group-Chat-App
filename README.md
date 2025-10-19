@@ -23,6 +23,6 @@ A scalable, microservices-based real-time chat application built with Spring Boo
 - **Real-time Communication**: WebSocket (Classical Implementation)
 - **Message Broker**: Apache Kafka
 - **Database**: PostgreSQL with Spring Data JPA
-- **Security**: JWT, Spring Security
+- **Security**: JWT
 - **Build Tool**: Maven
 - **Service Discovery**: Netflix Eureka Server
